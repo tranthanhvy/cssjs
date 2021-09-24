@@ -1,5 +1,8 @@
-
-	var url_popup = 'https://tranthanhvy.com';
+/*
+var i=Math.floor(Math.random() * 3);
+ var urls=["https://www.vohoangbuu.com","https://www.youtube.com/channel/UC9bqqHGj7QXfmlpDtk9I7Vw","https://www.facebook.com/TranThanhVy06"];
+ 
+ var url_popup = urls[i];
 
       //<![CDATA[
 	 
